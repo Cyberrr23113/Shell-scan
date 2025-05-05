@@ -1,2 +1,2 @@
 # Shell-scan
-HaN&amp;R1P0x0x8
+HaN
